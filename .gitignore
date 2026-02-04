@@ -1,0 +1,26 @@
+# Dados e outputs
+data/
+datasets/
+*.csv
+*.json
+*.gz
+*.tar.gz
+*.parquet
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Ambientes
+.venv/
+venv/
+.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
